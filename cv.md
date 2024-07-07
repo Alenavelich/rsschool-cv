@@ -1,4 +1,0 @@
-# Alena
-# Alenchik
-# AlenchikVelichko
-# Alena
