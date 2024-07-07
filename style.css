@@ -6,7 +6,7 @@
     max-width: 1000px;
     margin: 0 auto;
     padding: 15px;
-}
+    }
 h1 {
     text-align: center;
     font-size: 30px;
@@ -19,6 +19,7 @@ h1 {
 }
 .footer{
     background-color: rgba(224, 135, 17, 0.26);
+    text-align: center;
 }
 .footer_img{
    width: 10%;
@@ -52,4 +53,9 @@ h1 {
 .english{
     color:rgba(214, 95, 26, 0.801);
     font-size: 20px;
+}
+.container_1{
+    text-align: center;
+    font-size: 20px;
+    color: rgba(41, 161, 25, 0.801);
 }
